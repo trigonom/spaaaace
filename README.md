@@ -1,6 +1,8 @@
 ## Spaaaaace!
 
-Clone the repo, open `index.html` and enjoy!
+Clone the repo, open `/index.html` and enjoy!
+
+Everything except `/space.mp4` and `/icon.png` is licensed as described in `/LICENSE`.
 
 ### Credits
 
